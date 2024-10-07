@@ -11,7 +11,7 @@ test_file_name: `how_to_run_it`
  - [ ] Chaging a runner
  - [ ] Implementation of a new runner
 
- - Steps for execution:
+  Steps for execution:
     - runner_name: `script`
 
 #### :hammer_and_wrench: Type of change
