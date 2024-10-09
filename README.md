@@ -1,5 +1,7 @@
 # The Odin Project Ruby Exercises
 
+![Static Badge](https://img.shields.io/badge/Ruby-3.3.1-282828?style=flat&logo=ruby&logoColor=282828&labelColor=CC342D) ![Static Badge](https://img.shields.io/badge/RSpec-3.13-282828?style=flat&logo=rubygems&logoColor=282828&labelColor=f53e5c)
+
 ## About this repository
 
 This repository is a complement to the Ruby course for The Odin Project. It contains a series of Ruby exercises alongside pre-written tests that will help guide the student towards a solution, providing a Test Driven Development experience.
